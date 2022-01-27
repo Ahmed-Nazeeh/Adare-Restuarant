@@ -41,3 +41,8 @@ p {
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+a {
+    color: rgb(64, 216, 243);
+    /* text-decoration: none; */
+}
